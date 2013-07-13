@@ -1,0 +1,10 @@
+[user]
+	name = Kit Sunde
+	email = kitsunde@gmail.com
+[core]
+	editor = nano
+	excludesfile = ~/.gitignore_global
+[color]
+	ui = true
+[pull]
+	rebase = true
