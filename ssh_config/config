@@ -5,3 +5,19 @@ ControlPersist yes
 
 # Compression
 CompressionLevel 9
+
+# Work Aliases
+Host mediapop.github.com
+  Hostname=github.com
+Host fishnco.github.com
+  Hostname github.com
+Host popgun.github.com
+  Hostname github.com
+Host friendface.github.com
+  Hostname github.com
+Host slowstagram.github.com
+  Hostname github.com
+Host mailwhimp.github.com
+  Hostname github.com
+Host pixma.github.com
+  Hostname github.com
