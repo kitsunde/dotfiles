@@ -1,0 +1,7 @@
+# Persist SHS connections
+ControlMaster auto
+ControlPath ~/.ssh/%r@%h:%p
+ControlPersist yes
+
+# Compression
+CompressionLevel 9
