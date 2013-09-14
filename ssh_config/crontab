@@ -1,0 +1,2 @@
+# Persist the github.com SSH connection, YOLO.
+*/4 * * * * ssh -T git@github.com

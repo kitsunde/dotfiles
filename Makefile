@@ -4,3 +4,4 @@ install-git:
 
 install-ssh:
 	ln -fs `pwd`/ssh_config/config ~/.ssh/config
+	(crontab -l ; cat ssh_config/crontab) | crontab -
